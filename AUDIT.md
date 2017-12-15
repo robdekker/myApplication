@@ -5,7 +5,7 @@ A screenshot of the rank (including the 10 icons)
 A summary of the task list I created:
 
 Keep Unit Interfaces Small:
-  — Player.​init(String,​String,​Int,​String,​String,​String,​Bool)
+  * Player.​init(String,​String,​Int,​String,​String,​String,​Bool)
       starts at line 24 in myApplication/​Models/​Player.​swift
-  — FavoriteTableViewController.​tableView(UITableView,​UITableViewCellEditingStyle,​IndexPath)
+  * FavoriteTableViewController.​tableView(UITableView,​UITableViewCellEditingStyle,​IndexPath)
       starts at line 111 in myApplication/​Controllers/​FavoriteTableViewController.​swift
