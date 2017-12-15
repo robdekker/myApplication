@@ -43,4 +43,6 @@ When deleting a player from the favorite players list, the player will also be d
 ![alt text](https://github.com/robdekker/myApplication/blob/master/doc/image8.PNG)
 
 
+## My Better Code Hub score:
+
 [![BCH compliance](https://bettercodehub.com/edge/badge/robdekker/myApplication?branch=master)](https://bettercodehub.com/)
