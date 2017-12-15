@@ -6,7 +6,7 @@ If you get an error in xcode like the following: "Apple Mach-O Linker Error"
 
 Please follow the steps below to be able to run my application (i'm sorry it has to be this way).
 
-1. Run `pod deintegrate` to remove any trace of Cocoapods from your project.
+1. Run `pod deintegrate` to remove any trace of Cocoapods from the project.
 2. Run `pod install` to add it all back.
 
 That's it, fixed.
