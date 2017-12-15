@@ -9,6 +9,7 @@ target 'myApplication' do
   pod 'Firebase/Core'
   pod 'Firebase/Database'
   pod 'Firebase/Auth'
+  pod 'SwiftyJSON'
 
   target 'myApplicationTests' do
     inherit! :search_paths
