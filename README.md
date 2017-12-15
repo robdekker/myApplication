@@ -1,6 +1,14 @@
 # myApplication
-Eindproject Native App Studio
+Eindproject Native App Studio.
 
+# IMPORTANT TO READ:
+If you get an error in xcode like the following: "Apple Mach-O Linker Error"
+Please follow the steps below to be able to run my application (i'm sorry it has to be this way).
+
+1. Run `pod deintegrate` to remove any trace of Cocoapods from your project.
+2. Run `pod install` to add it all back.
+
+That's it, fixed.
 
 ## Screenshot 1: login screen
 You need to fill in your correct email and password to be able to login.
